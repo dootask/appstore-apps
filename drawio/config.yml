@@ -1,0 +1,8 @@
+name: Drawio
+description:
+  en: Drawio is a powerful diagramming tool that enables you to create, edit and collaborate on various types of diagrams. After installation, you can seamlessly view and edit diagrams directly within DooTask, enhancing your workflow efficiency.
+  zh: Drawio 是一款功能强大的流程图绘制工具，支持创建、编辑和协作处理各类图表。安装后可在 DooTask 中无缝查看和编辑流程图，提升工作效率。
+author: Community
+website: https://www.drawio.com/
+tags:
+  - 流程图
