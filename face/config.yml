@@ -1,7 +1,7 @@
 name: Face check-in
 description:
-  en: Face check-in is a sign-in tool that enables face recognition functionality in DooTask's check-in page after installation, improving sign-in efficiency. It requires compatible face recognition devices to operate.
-  zh: 人脸打卡是一款签到打卡工具，安装后可在 DooTask 的签到打卡页面开启人脸打卡功能，提升签到效率，需要配合指定人脸识别设备使用。
+  en: A face recognition check-in tool.
+  zh: 一款支持人脸识别的签到打卡工具。
 author: DooTask
 website: https://www.dootask.com/
 tags:

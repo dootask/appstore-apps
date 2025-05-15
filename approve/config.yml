@@ -1,7 +1,7 @@
 name: Approval
 description:
-  en: This is a powerful approval tool that supports various leave, overtime, and business trip requests. After installation, you can seamlessly submit and process approvals directly within DooTask, streamlining your workflow and improving efficiency.
-  zh: 这是一款功能强大的审批工具，支持各类请假、加班、外出等申请。安装后可在 DooTask 中无缝提交和处理审批，简化工作流程，提升工作效率。
+  en: Support various leave, overtime, and business trip requests.
+  zh: 支持各类请假、加班、外出等申请。
 author: DooTask
 website: https://www.dootask.com/
 tags:

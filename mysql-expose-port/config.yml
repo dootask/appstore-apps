@@ -1,7 +1,7 @@
 name: MysqlExposePort
 description: 
-  en: A plugin that exposes MySQL database port to allow external database connections and management
-  zh: 一个用于暴露 MySQL 数据库端口的插件，方便外部工具连接和管理数据库
+  en: Expose MySQL database port.
+  zh: 用于暴露 MySQL 数据库端口的插件
 author: DooTask
 website: https://www.dootask.com
 tags:
