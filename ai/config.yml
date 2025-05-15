@@ -1,0 +1,9 @@
+name: AI Robot
+description:
+  en: A powerful AI tool supporting multiple models including ChatGPT, Claude, DeepSeek, Gemini, Grok, Ollama, Zhipu Qingyan, Tongyi Qianwen, and Wenxin Yiyan. Configure these models directly in DooTask to boost productivity.
+  zh: 支持多种 AI 模型的强大工具，包括 ChatGPT、Claude、DeepSeek、Gemini、Grok、Ollama、智谱清言、通义千问、文心一言等。在 DooTask 中直接配置，提升工作效率。
+author: DooTask
+website: https://www.dootask.com/
+tags:
+  - AI
+  - 机器人
