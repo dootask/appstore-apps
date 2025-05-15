@@ -1,0 +1,8 @@
+name: FileView
+description:
+  en: A plugin that provides a file viewer for viewing various file formats. After installation, you can preview more file formats directly in DooTask, making it easier to view and share documents online.
+  zh: 一个用于查看多种文件格式的插件。安装后可以在 DooTask 中直接预览更多文件格式，方便在线查看和分享文档。
+author: Community
+website: https://kkview.cn/
+tags:
+  - 文件预览
