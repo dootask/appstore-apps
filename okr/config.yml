@@ -13,6 +13,7 @@ menu_items:
       zh: OKR 管理
     url: apps/okr/list
     icon: ./logo.svg
+    autoDarkTheme: true
 
   - location: application/admin
     label:
@@ -20,4 +21,5 @@ menu_items:
       zh: OKR 结果
     url: apps/okr/analysis
     icon: ./icon/analysis.svg
+    autoDarkTheme: true
 

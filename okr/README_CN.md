@@ -88,6 +88,7 @@ menu_items:                       # 定义应用菜单入口
     url: apps/okr/list            # 菜单 URL
     icon: ./icon.png              # 菜单图标路径
     transparent: false            # 页面是否使用透明背景（可选，默认：false）
+    autoDarkTheme: true           # 是否自动适配深色主题，如果应用自己有深色主题，请设置为 false（可选，默认：true）
     keepAlive: true               # 关闭时是否缓存应用而不是销毁，以保持状态并提高性能（可选，默认：true）
 ```
 

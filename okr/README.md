@@ -86,6 +86,7 @@ menu_items:                       # Define application menu entries
     url: apps/okr/list            # Menu URL
     icon: ./icon.png              # Menu icon path
     transparent: false            # Whether the page uses transparent background (optional, default: false)
+    autoDarkTheme: true           # Whether to automatically adapt to dark theme. If the app has its own dark theme, set to false (optional, default: true)
     keepAlive: true               # Whether to cache the app instead of destroying it when closed, to preserve state and improve performance (optional, default: true)
 ```
 
